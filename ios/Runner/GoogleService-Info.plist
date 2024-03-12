@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDpDPEb62tdr5WY9iCAI_kK3NeX6ICkGe8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>867497132783</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.astroApp</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-practica-db5ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-practica-db5ac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:867497132783:ios:221fe3a6b49261f25ed11a</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-practica-db5ac.firebaseio.com</string>
+</dict>
+</plist>
